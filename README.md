@@ -1,2 +1,14 @@
 # footballyoubo-guide
-HTML page archive and documentation
+
+静态页面发布集合
+
+这里用于集中归档一批静态 HTML 页面文件。
+
+## 内容记录
+
+- 页面文件会逐步增加
+- 仓库说明会随配置保持更新
+
+## 存档说明
+
+页面文件会持续归档，后续内容以实际发布结果为准。
